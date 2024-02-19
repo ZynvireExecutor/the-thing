@@ -1,2 +1,2 @@
-local ws = game.Players.LocalPlayer.Character.Walkspeed
+local ws = game.Players.LocalPlayer.Character.Humanoid.Walkspeed
 ws = ws + 1
